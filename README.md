@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm Yankı ''Azauqyar'' <a></h1>
+# <h1 align="center">Hi, I'm Yankı <a></h1>
     
 <p align="center">
     <a href="https://www.youtube.com/@azauqyar">
