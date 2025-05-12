@@ -8,8 +8,8 @@
 
 <div>
 <h3 align="left">About Me</h3>
- I'm Yankı, 23 years old and 4th-year Computer Engineering student who wants to be Game Developer and Game Designer.<br>
- And I'm currently seeking a role where I can gain new experiences and work as an intern. <br>
+ I'm Yankı, 24 years old and 4th-year Computer Engineering student who wants to be Game Developer and Game Designer.<br>
+ And I'm currently seeking a role where I can gain new experiences and work. <br>
  I also like making and editing videos. <br>
 
 <br> <br> <br>
