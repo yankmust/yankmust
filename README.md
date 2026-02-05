@@ -8,7 +8,7 @@
 
 <div>
 <h3 align="left">About Me</h3>
- I'm Yankı, 24 years old and new graduate Computer Engineer who wants to be Game Developer and Game Designer.<br>
+ I'm Yankı, 25 years old and new graduate Computer Engineer who wants to be Game Developer and Game Designer.<br>
  And I'm currently seeking a role where I can gain new experiences and work. <br>
  I also like making and editing videos. <br>
 
